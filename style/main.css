@@ -6,6 +6,7 @@ html { font-family: 'Inter', sans-serif; }
 
 body {
   background-color: black;
+  padding: 30px;
 }
 
 h1 {
@@ -15,6 +16,6 @@ h1 {
   text-indent: -0.03em;
   font-weight: bolder;
   color: white;
-  font-size: 110px;
+  font-size: 30px;
   margin-bottom: 50px;
 }
