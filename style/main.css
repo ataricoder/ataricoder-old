@@ -8,7 +8,9 @@ body {
   background-color: black;
   padding: 30px;
 }
-
+.about {
+  padding: 30px;
+}
 .projects {
   padding: 30px;
 }
@@ -45,6 +47,17 @@ h1 {
   line-height: 0.9em;
   text-indent: -0.03em;
   font-weight: bolder;
+  color: white;
+  font-size: 24px;
+  margin-bottom: 50px;
+}
+
+h6 {
+  font-family: 'Inter', sans-serif;
+  letter-spacing: -0.055em;
+  line-height: 0.9em;
+  text-indent: -0.03em;
+  font-weight: regular;
   color: white;
   font-size: 30px;
   margin-bottom: 50px;
