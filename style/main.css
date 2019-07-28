@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+
+.header {
+  height: 52px;
+  width: 100%;
+  border-bottom: 1px solid white;
+}
+
+h1 {
+  font-size: 21px;
+}
+
+.header-content{
+  margin-left: 448px;
+  margin-right: 448px;
+  padding-top: 14px;
+  padding-left: 22px;
+  padding-right: 22px;
+}
