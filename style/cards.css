@@ -1,0 +1,78 @@
+@import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}
+
+body {
+  background-color: black;
+}
+
+.about {
+  padding: 30px;
+}
+
+.projects {
+  padding: 30px;
+}
+
+.card-title{
+  font-family: 'Inter', sans-serif;
+  letter-spacing: -0.055em;
+  line-height: 0.9em;
+  text-indent: -0.03em;
+  font-weight: bolder;
+  font-size: 30px;
+  margin-bottom: 50px;
+  color: black;
+}
+
+.card-text{
+  font-family: 'Inter', sans-serif;
+  /*letter-spacing: -0.055em;*/
+  /*line-height: 0.9em;*/
+  text-indent: -0.03em;
+  font-weight: regular;
+  font-size: 18px;
+  margin-bottom: 50px;
+  color: black;
+}
+
+.fab {
+  font-size: 24px;
+  color: white;
+}
+
+.card {
+  border: 0px solid rgba(0,0,0,.125);
+}
+
+hr {
+  height: 1px;
+  color: white;
+  background-color: white;
+  border: none;
+}
+
+
+h1 {
+  font-family: 'Inter', sans-serif;
+  letter-spacing: -0.055em;
+  line-height: 0.9em;
+  text-indent: -0.03em;
+  font-weight: bolder;
+  color: white;
+  font-size: 24px;
+  margin-bottom: 50px;
+}
+
+h6 {
+  font-family: 'Inter', sans-serif;
+  letter-spacing: -0.055em;
+  line-height: 0.9em;
+  text-indent: -0.03em;
+  font-weight: regular;
+  color: white;
+  font-size: 30px;
+  margin-bottom: 50px;
+}
