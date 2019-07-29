@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  font: "Helvetica Neue";
 }
 
 .header {
@@ -8,14 +9,22 @@ body {
   border-bottom: 1px solid white;
 }
 
-h1 {
+h5 {
   font-size: 21px;
 }
 
-.header-content{
+.header-content {
   margin-left: 448px;
   margin-right: 448px;
-  padding-top: 14px;
   padding-left: 22px;
   padding-right: 22px;
+}
+
+.navbar {
+  height: 52px !important;
+  padding: 0px !important;
+}
+
+.navbar-brand {
+  padding-top: 9px !important;
 }
